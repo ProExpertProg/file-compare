@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_25\bin\javah.exe" -o FileCompareByContent\FileCompareByContent.h -jni -classpath "H:\Java\File compare\build\classes" file.compare.FileCompare
